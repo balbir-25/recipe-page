@@ -60,6 +60,8 @@ body {
   width: 216px;
   margin-top: 55px;
   padding: 20px;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .menu,
@@ -252,7 +254,6 @@ ol li{
       display: flex;
       flex-direction: row;
       width: 100%;
-      justify-content: space-evenly;
       padding:0 20px;
 
     }
